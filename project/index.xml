@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/project/</link>
+      <atom:link href="https://myronxie.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mingye Xie</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://myronxie.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Research and Design of Multi-rotor UAV Sensor System Based on Pixhawk</title>
+      <link>https://myronxie.github.io/project/master-thesis/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/master-thesis/</guid>
+      <description>&lt;p&gt;In recent years, multi-rotor UAVs have shown great application value in the fields of aerial photography, power inspection, and agricultural plant protection due to their simple structure, convenient use and easy maintenance. With the continuous investment of commercial companies, research institutes and open source communities, the technology related to multi-rotor drones has developed vigorously.&lt;/p&gt;
+&lt;p&gt;The sensor system, as part of a multi-rotor drone, continuously provides reliable sensor raw data for the drone. The sensor data is finally converted into state information such as flight attitude and flight position of the drone through various algorithms within the system, which provides a basis for the multi-rotor UAV to achieve autonomous control.
+This paper uses the Pixhawk open source flight control system, based on the self-designed and built flight control software and hardware platform, the following research and design of the multi-rotor UAV sensor system:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The selection of sensor hardware was studied and evaluated. By comparing and verifying the performance parameters of each sensor, the MEMS sensor selection suitable for multi-rotor UAVs was selected.&lt;/li&gt;
+&lt;li&gt;Research and implementation of sensor data processing algorithms. By analyzing the sensor error source and error type, the corresponding error model is established, and data processing methods such as data calibration processing, temperature compensation processing and data filtering processing are introduced according to this model to reduce the correlation error to the sensor data.&lt;/li&gt;
+&lt;li&gt;The sensor data fusion algorithm and the UAV attitude calculation algorithm are studied and implemented. The multi-sensor fusion mechanism avoids the impact of a single sensor failure on the sensor system. Different types of sensor information are fused by introducing corresponding complementary filtering algorithms to reduce the error that occurs when the UAV attitude is solved.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through the above research and design, the sensor system can obtain more accurate and stable sensor raw data, which enables the flight control system to solve more accurate attitude information, and finally make the multi-rotor drone maintain a more stable flight.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship in Clobotics</title>
+      <link>https://myronxie.github.io/project/clobotics/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/clobotics/</guid>
+      <description>&lt;p&gt;From Sep 2017 to Oct 2018.&lt;/p&gt;
+&lt;p&gt;Participate in the writing and testing of multi-rotor UAV accompanying computer embedded control software. Accompanying the computer using STM32F3 as the main control chip, its main functions are: controlling the onboard landing gear to carry out the retracting operation smoothly; controlling the power state of the onboard smart battery, and real-time collection of battery voltage, current, power and other related information; establishment Two-way communication with the drone&amp;rsquo;s onboard flight controller, receiving control signals to control the landing gear and smart battery, and sending the status information of the onboard equipment.&lt;/p&gt;
+&lt;p&gt;Participate in the writing and testing of the software and hardware of the multi-rotor UAV flight controller. The flight control software is written in a Unix-like environment. The main tasks include: Responsible for the driver writing and testing of UAV airborne sensors; research and optimize sensor data acquisition algorithms, processing algorithms and fusion algorithms, improve the stability of UAV attitude calculation; test flight controller hardware circuit boards Reliability, and make suggestions for improvement based on the problems encountered.&lt;/p&gt;
+&lt;p&gt;Assist in the completion of other embedded-related projects within the company: a smart car that can run on a preset route through a remote control handle and take pictures of the goods on the shelf; monitor the vibration of the vibration state of each mechanical part of the drone through multiple accelerometers Recorder etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

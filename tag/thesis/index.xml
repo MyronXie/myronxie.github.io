@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/thesis/</link>
+      <atom:link href="https://myronxie.github.io/tag/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mingye Xie</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Thesis</title>
+      <link>https://myronxie.github.io/tag/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Research and Design of Multi-rotor UAV Sensor System Based on Pixhawk</title>
+      <link>https://myronxie.github.io/project/master-thesis/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/master-thesis/</guid>
+      <description>&lt;p&gt;In recent years, multi-rotor UAVs have shown great application value in the fields of aerial photography, power inspection, and agricultural plant protection due to their simple structure, convenient use and easy maintenance. With the continuous investment of commercial companies, research institutes and open source communities, the technology related to multi-rotor drones has developed vigorously.&lt;/p&gt;
+&lt;p&gt;The sensor system, as part of a multi-rotor drone, continuously provides reliable sensor raw data for the drone. The sensor data is finally converted into state information such as flight attitude and flight position of the drone through various algorithms within the system, which provides a basis for the multi-rotor UAV to achieve autonomous control.
+This paper uses the Pixhawk open source flight control system, based on the self-designed and built flight control software and hardware platform, the following research and design of the multi-rotor UAV sensor system:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The selection of sensor hardware was studied and evaluated. By comparing and verifying the performance parameters of each sensor, the MEMS sensor selection suitable for multi-rotor UAVs was selected.&lt;/li&gt;
+&lt;li&gt;Research and implementation of sensor data processing algorithms. By analyzing the sensor error source and error type, the corresponding error model is established, and data processing methods such as data calibration processing, temperature compensation processing and data filtering processing are introduced according to this model to reduce the correlation error to the sensor data.&lt;/li&gt;
+&lt;li&gt;The sensor data fusion algorithm and the UAV attitude calculation algorithm are studied and implemented. The multi-sensor fusion mechanism avoids the impact of a single sensor failure on the sensor system. Different types of sensor information are fused by introducing corresponding complementary filtering algorithms to reduce the error that occurs when the UAV attitude is solved.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through the above research and design, the sensor system can obtain more accurate and stable sensor raw data, which enables the flight control system to solve more accurate attitude information, and finally make the multi-rotor drone maintain a more stable flight.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

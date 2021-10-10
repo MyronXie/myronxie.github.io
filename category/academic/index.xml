@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/category/academic/</link>
+      <atom:link href="https://myronxie.github.io/category/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mingye Xie</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://myronxie.github.io/category/academic/</link>
+    </image>
+    
+    <item>
+      <title>🏙️ GOS dataset is released!</title>
+      <link>https://myronxie.github.io/post/gos-dataset/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/post/gos-dataset/</guid>
+      <description>&lt;p&gt;We propose a large-scale, diverse synthetic dataset called &amp;ldquo;&lt;strong&gt;GOS&lt;/strong&gt; dataset&amp;rdquo; generated based on video game, which contains fine-grained semantic annotations.&lt;/p&gt;
+&lt;p&gt;Detailed information and samples about the dataset is available online at &lt;a href=&#34;https://myronxie.github.io/GOS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://myronxie.github.io/GOS/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

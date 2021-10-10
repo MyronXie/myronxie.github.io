@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/internship/</link>
+      <atom:link href="https://myronxie.github.io/tag/internship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internship</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mingye Xie</copyright><lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Internship</title>
+      <link>https://myronxie.github.io/tag/internship/</link>
+    </image>
+    
+    <item>
+      <title>Internship in Clobotics</title>
+      <link>https://myronxie.github.io/project/clobotics/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/clobotics/</guid>
+      <description>&lt;p&gt;From Sep 2017 to Oct 2018.&lt;/p&gt;
+&lt;p&gt;Participate in the writing and testing of multi-rotor UAV accompanying computer embedded control software. Accompanying the computer using STM32F3 as the main control chip, its main functions are: controlling the onboard landing gear to carry out the retracting operation smoothly; controlling the power state of the onboard smart battery, and real-time collection of battery voltage, current, power and other related information; establishment Two-way communication with the drone&amp;rsquo;s onboard flight controller, receiving control signals to control the landing gear and smart battery, and sending the status information of the onboard equipment.&lt;/p&gt;
+&lt;p&gt;Participate in the writing and testing of the software and hardware of the multi-rotor UAV flight controller. The flight control software is written in a Unix-like environment. The main tasks include: Responsible for the driver writing and testing of UAV airborne sensors; research and optimize sensor data acquisition algorithms, processing algorithms and fusion algorithms, improve the stability of UAV attitude calculation; test flight controller hardware circuit boards Reliability, and make suggestions for improvement based on the problems encountered.&lt;/p&gt;
+&lt;p&gt;Assist in the completion of other embedded-related projects within the company: a smart car that can run on a preset route through a remote control handle and take pictures of the goods on the shelf; monitor the vibration of the vibration state of each mechanical part of the drone through multiple accelerometers Recorder etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

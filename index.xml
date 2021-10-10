@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/</link>
+      <atom:link href="https://myronxie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingye Xie&#39;s Homepage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mingye Xie</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Mingye Xie&#39;s Homepage</title>
+      <link>https://myronxie.github.io/</link>
+    </image>
+    
+    <item>
+      <title>🏙️ GOS dataset is released!</title>
+      <link>https://myronxie.github.io/post/gos-dataset/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/post/gos-dataset/</guid>
+      <description>&lt;p&gt;We propose a large-scale, diverse synthetic dataset called &amp;ldquo;&lt;strong&gt;GOS&lt;/strong&gt; dataset&amp;rdquo; generated based on video game, which contains fine-grained semantic annotations.&lt;/p&gt;
+&lt;p&gt;Detailed information and samples about the dataset is available online at &lt;a href=&#34;https://myronxie.github.io/GOS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://myronxie.github.io/GOS/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised person re-identification by hierarchical cluster and domain transfer</title>
+      <link>https://myronxie.github.io/publication/xiang2020unsupervised/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xiang2020unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image matching algorithm of defects on navel orange surface based on compressed sensing</title>
+      <link>https://myronxie.github.io/publication/xie2020improved/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2020improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://myronxie.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research and Design of Multi-rotor UAV Sensor System Based on Pixhawk</title>
+      <link>https://myronxie.github.io/project/master-thesis/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/master-thesis/</guid>
+      <description>&lt;p&gt;In recent years, multi-rotor UAVs have shown great application value in the fields of aerial photography, power inspection, and agricultural plant protection due to their simple structure, convenient use and easy maintenance. With the continuous investment of commercial companies, research institutes and open source communities, the technology related to multi-rotor drones has developed vigorously.&lt;/p&gt;
+&lt;p&gt;The sensor system, as part of a multi-rotor drone, continuously provides reliable sensor raw data for the drone. The sensor data is finally converted into state information such as flight attitude and flight position of the drone through various algorithms within the system, which provides a basis for the multi-rotor UAV to achieve autonomous control.
+This paper uses the Pixhawk open source flight control system, based on the self-designed and built flight control software and hardware platform, the following research and design of the multi-rotor UAV sensor system:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The selection of sensor hardware was studied and evaluated. By comparing and verifying the performance parameters of each sensor, the MEMS sensor selection suitable for multi-rotor UAVs was selected.&lt;/li&gt;
+&lt;li&gt;Research and implementation of sensor data processing algorithms. By analyzing the sensor error source and error type, the corresponding error model is established, and data processing methods such as data calibration processing, temperature compensation processing and data filtering processing are introduced according to this model to reduce the correlation error to the sensor data.&lt;/li&gt;
+&lt;li&gt;The sensor data fusion algorithm and the UAV attitude calculation algorithm are studied and implemented. The multi-sensor fusion mechanism avoids the impact of a single sensor failure on the sensor system. Different types of sensor information are fused by introducing corresponding complementary filtering algorithms to reduce the error that occurs when the UAV attitude is solved.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through the above research and design, the sensor system can obtain more accurate and stable sensor raw data, which enables the flight control system to solve more accurate attitude information, and finally make the multi-rotor drone maintain a more stable flight.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship in Clobotics</title>
+      <link>https://myronxie.github.io/project/clobotics/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/clobotics/</guid>
+      <description>&lt;p&gt;From Sep 2017 to Oct 2018.&lt;/p&gt;
+&lt;p&gt;Participate in the writing and testing of multi-rotor UAV accompanying computer embedded control software. Accompanying the computer using STM32F3 as the main control chip, its main functions are: controlling the onboard landing gear to carry out the retracting operation smoothly; controlling the power state of the onboard smart battery, and real-time collection of battery voltage, current, power and other related information; establishment Two-way communication with the drone&amp;rsquo;s onboard flight controller, receiving control signals to control the landing gear and smart battery, and sending the status information of the onboard equipment.&lt;/p&gt;
+&lt;p&gt;Participate in the writing and testing of the software and hardware of the multi-rotor UAV flight controller. The flight control software is written in a Unix-like environment. The main tasks include: Responsible for the driver writing and testing of UAV airborne sensors; research and optimize sensor data acquisition algorithms, processing algorithms and fusion algorithms, improve the stability of UAV attitude calculation; test flight controller hardware circuit boards Reliability, and make suggestions for improvement based on the problems encountered.&lt;/p&gt;
+&lt;p&gt;Assist in the completion of other embedded-related projects within the company: a smart car that can run on a preset route through a remote control handle and take pictures of the goods on the shelf; monitor the vibration of the vibration state of each mechanical part of the drone through multiple accelerometers Recorder etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://myronxie.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
