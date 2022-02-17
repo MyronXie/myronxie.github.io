@@ -5,7 +5,7 @@
     <link>https://myronxie.github.io/</link>
       <atom:link href="https://myronxie.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingye Xie&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mingye Xie</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>Mingye Xie&#39;s Homepage</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>🏙️ GOS dataset is released!</title>
+      <title>GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</title>
+      <link>https://myronxie.github.io/publication/xie2022gos/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2022gos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🏙️ GOS is accepted in ICASSP 2022!</title>
       <link>https://myronxie.github.io/post/gos-dataset/</link>
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://myronxie.github.io/post/gos-dataset/</guid>
