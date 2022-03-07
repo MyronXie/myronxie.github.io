@@ -5,7 +5,7 @@
     <link>https://myronxie.github.io/post/</link>
       <atom:link href="https://myronxie.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,10 +13,21 @@
     </image>
     
     <item>
+      <title>🧐 One paper is accepted in ICME 2022!</title>
+      <link>https://myronxie.github.io/post/2022-03-face-editing/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/post/2022-03-face-editing/</guid>
+      <description>&lt;p&gt;We first propose a mapping network to manipulate latent code which is effective for diverse situations, and design a spatial attention network to predict binary mask of certain attribute which encourages to only alter relevant region of images and suppress irrelevant changes.&lt;/p&gt;
+&lt;p&gt;In addition, we introduce a novel latent space into GAN inversion framework which achieves high reconstruction quality especially preserving identity features and retains ability to edit face attributes.&lt;/p&gt;
+&lt;p&gt;Spatial thanks to Feng Wang for model building.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🏙️ GOS is accepted in ICASSP 2022!</title>
-      <link>https://myronxie.github.io/post/gos-dataset/</link>
+      <link>https://myronxie.github.io/post/2021-09-gos-dataset/</link>
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/post/gos-dataset/</guid>
+      <guid>https://myronxie.github.io/post/2021-09-gos-dataset/</guid>
       <description>&lt;p&gt;We propose a large-scale, diverse synthetic dataset called &amp;ldquo;&lt;strong&gt;GOS&lt;/strong&gt; dataset&amp;rdquo; generated based on video game, which contains fine-grained semantic annotations.&lt;/p&gt;
 &lt;p&gt;Detailed information and samples about the dataset is available online at &lt;a href=&#34;https://myronxie.github.io/GOS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://myronxie.github.io/GOS/&lt;/a&gt;.&lt;/p&gt;
 </description>

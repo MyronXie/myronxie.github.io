@@ -5,12 +5,20 @@
     <link>https://myronxie.github.io/publication/</link>
       <atom:link href="https://myronxie.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://myronxie.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Spatial Attention Guided Local Facial Attribute Editing</title>
+      <link>https://myronxie.github.io/publication/xie2022spatial/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2022spatial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</title>
@@ -25,6 +33,14 @@
       <link>https://myronxie.github.io/publication/xiang2020unsupervised/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://myronxie.github.io/publication/xiang2020unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved algorithm for sentiment analysis based on maximum entropy</title>
+      <link>https://myronxie.github.io/publication/xie2019improved/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2019improved/</guid>
       <description></description>
     </item>
     
