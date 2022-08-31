@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hierarchical clustering | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/hierarchical-clustering/</link>
+      <atom:link href="https://myronxie.github.io/tag/hierarchical-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hierarchical clustering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Hierarchical clustering</title>
+      <link>https://myronxie.github.io/tag/hierarchical-clustering/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised person re-identification by hierarchical cluster and domain transfer</title>
+      <link>https://myronxie.github.io/publication/xiang2020unsupervised/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xiang2020unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

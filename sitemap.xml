@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://myronxie.github.io/categories/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/personal/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/category/personal/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/post/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/tags/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/post/2022-08-reviewer/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://myronxie.github.io/publication-type/1/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,19 +35,10 @@
     <loc>https://myronxie.github.io/tag/attention-mechanism/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://myronxie.github.io/categories/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://myronxie.github.io/tag/facial-attribute-manipulation/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myronxie.github.io/tag/generative-adversarial-network-gan/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://myronxie.github.io/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://myronxie.github.io/post/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myronxie.github.io/publication_types/</loc>
@@ -36,9 +48,6 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myronxie.github.io/publication/xie2022spatial/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://myronxie.github.io/tags/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myronxie.github.io/post/2022-03-face-editing/</loc>
@@ -57,6 +66,18 @@
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myronxie.github.io/publication-type/2/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/hierarchical-clustering/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/re-id/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/trihard-loss/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/unsupervised-domain/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myronxie.github.io/publication/xiang2020unsupervised/</loc>
