@@ -5,12 +5,20 @@
     <link>https://myronxie.github.io/</link>
       <atom:link href="https://myronxie.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingye Xie&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>Mingye Xie&#39;s Homepage</title>
       <link>https://myronxie.github.io/</link>
     </image>
+    
+    <item>
+      <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
+      <link>https://myronxie.github.io/publication/ruan2022malunet/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/ruan2022malunet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>📑 Reviewer Assignment</title>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Attention mechanism | Mingye Xie&#39;s Homepage</title>
-    <link>https://myronxie.github.io/tag/attention-mechanism/</link>
-      <atom:link href="https://myronxie.github.io/tag/attention-mechanism/index.xml" rel="self" type="application/rss+xml" />
-    <description>Attention mechanism</description>
+    <title>Mobile health | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/mobile-health/</link>
+      <atom:link href="https://myronxie.github.io/tag/mobile-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile health</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
-      <title>Attention mechanism</title>
-      <link>https://myronxie.github.io/tag/attention-mechanism/</link>
+      <title>Mobile health</title>
+      <link>https://myronxie.github.io/tag/mobile-health/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://myronxie.github.io/publication/ruan2022malunet/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://myronxie.github.io/publication/ruan2022malunet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Attention Guided Local Facial Attribute Editing</title>
-      <link>https://myronxie.github.io/publication/xie2022spatial/</link>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/publication/xie2022spatial/</guid>
       <description></description>
     </item>
     

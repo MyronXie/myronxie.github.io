@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Facial attribute manipulation has attracted great attention from the public due to its wide range of applications. Aiming to smoothly manipulate the attributes of real facial images, it is critical to search a proper latent code aligns with the domain of pre-trained GAN for faithful inversion and control the transformation within the scope of the attribute for precise editing. Previous methods mainly focused on improving the quality of reconstruction, but often ignored the editing effect. To address this issue, we first propose a mapping network to manipulate latent code which is effective for diverse situations, and design a spatial attention network to predict binary mask of certain attribute which encourages to only alter relevant region of images and suppress irrelevant changes. In addition, we introduce a novel latent space into GAN inversion framework which achieves high reconstruction quality especially preserving identity features and retains ability to edit face attributes. Our methods pave the way to semantically meaningful and disentangled manipulations on both generated images and real images. Experimental results indicate a clear improvement over the current state-of-the-art methods both in subjective and objective metrics." />
+  <meta name="description" content="Recently, some pioneering works have preferred applying more complex modules to improve segmentation performances. However, it is not friendly for actual clinical environments due to limited computing resources. To address this challenge, we propose a light-weight model to achieve competitive performances for skin lesion segmentation at the lowest cost of parameters and computational complexity so far. Briefly, we propose four modules: (1) DGA consists of dilated convolution and gated attention mechanisms to extract global and local feature information; (2) IEA, which is based on external attention to characterize the overall datasets and enhance the connection between samples; (3) CAB is composed of 1D convolution and fully connected layers to perform a global and local fusion of multi-stage features to generate attention maps at channel axes; (4) SAB, which operates on multi-stage features by a shared 2D convolution to generate attention maps at spatial axes. We combine four modules with our U-shape architecture and obtain a light-weight medical image segmentation model dubbed as MALUNet. Compared with UNet, our model improved the mIoU and DSC metrics by 2.39% and 1.49%, respectively, with a 44x and 166x reduction in the number of parameters and computational complexity. In addition, we conducted comparison experiments on two skin lesion segmentation datasets (ISIC2017 and ISIC2018). Experimental results show that our model achieves state-of-the-art in balancing the number of parameters, computational complexity and segmentation performances. Code is available at https://github.com/JCruan519/MALUNet." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://myronxie.github.io/publication/xie2022spatial/" />
+  <link rel="alternate" hreflang="en-us" href="https://myronxie.github.io/publication/ruan2022malunet/" />
 
   
 
@@ -315,7 +315,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://myronxie.github.io/publication/xie2022spatial/" />
+  <link rel="canonical" href="https://myronxie.github.io/publication/ruan2022malunet/" />
 
   
   
@@ -332,18 +332,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Mingye Xie&#39;s Homepage" />
-  <meta property="og:url" content="https://myronxie.github.io/publication/xie2022spatial/" />
-  <meta property="og:title" content="Spatial Attention Guided Local Facial Attribute Editing | Mingye Xie&#39;s Homepage" />
-  <meta property="og:description" content="Facial attribute manipulation has attracted great attention from the public due to its wide range of applications. Aiming to smoothly manipulate the attributes of real facial images, it is critical to search a proper latent code aligns with the domain of pre-trained GAN for faithful inversion and control the transformation within the scope of the attribute for precise editing. Previous methods mainly focused on improving the quality of reconstruction, but often ignored the editing effect. To address this issue, we first propose a mapping network to manipulate latent code which is effective for diverse situations, and design a spatial attention network to predict binary mask of certain attribute which encourages to only alter relevant region of images and suppress irrelevant changes. In addition, we introduce a novel latent space into GAN inversion framework which achieves high reconstruction quality especially preserving identity features and retains ability to edit face attributes. Our methods pave the way to semantically meaningful and disentangled manipulations on both generated images and real images. Experimental results indicate a clear improvement over the current state-of-the-art methods both in subjective and objective metrics." /><meta property="og:image" content="https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://myronxie.github.io/publication/ruan2022malunet/" />
+  <meta property="og:title" content="MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation | Mingye Xie&#39;s Homepage" />
+  <meta property="og:description" content="Recently, some pioneering works have preferred applying more complex modules to improve segmentation performances. However, it is not friendly for actual clinical environments due to limited computing resources. To address this challenge, we propose a light-weight model to achieve competitive performances for skin lesion segmentation at the lowest cost of parameters and computational complexity so far. Briefly, we propose four modules: (1) DGA consists of dilated convolution and gated attention mechanisms to extract global and local feature information; (2) IEA, which is based on external attention to characterize the overall datasets and enhance the connection between samples; (3) CAB is composed of 1D convolution and fully connected layers to perform a global and local fusion of multi-stage features to generate attention maps at channel axes; (4) SAB, which operates on multi-stage features by a shared 2D convolution to generate attention maps at spatial axes. We combine four modules with our U-shape architecture and obtain a light-weight medical image segmentation model dubbed as MALUNet. Compared with UNet, our model improved the mIoU and DSC metrics by 2.39% and 1.49%, respectively, with a 44x and 166x reduction in the number of parameters and computational complexity. In addition, we conducted comparison experiments on two skin lesion segmentation datasets (ISIC2017 and ISIC2018). Experimental results show that our model achieves state-of-the-art in balancing the number of parameters, computational complexity and segmentation performances. Code is available at https://github.com/JCruan519/MALUNet." /><meta property="og:image" content="https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-03-06T00:00:00&#43;00:00"
+        content="2022-10-20T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-03-06T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-10-20T00:00:00&#43;00:00">
   
 
   
@@ -365,16 +365,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://myronxie.github.io/publication/xie2022spatial/"
+    "@id": "https://myronxie.github.io/publication/ruan2022malunet/"
   },
-  "headline": "Spatial Attention Guided Local Facial Attribute Editing",
+  "headline": "MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation",
   
-  "datePublished": "2022-03-06T00:00:00Z",
-  "dateModified": "2022-03-06T00:00:00Z",
+  "datePublished": "2022-10-20T00:00:00Z",
+  "dateModified": "2022-10-20T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Mingye Xie"
+    "name": "Jiacheng Ruan"
   },
   
   "publisher": {
@@ -385,7 +385,7 @@
       "url": "https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Facial attribute manipulation has attracted great attention from the public due to its wide range of applications. Aiming to smoothly manipulate the attributes of real facial images, it is critical to search a proper latent code aligns with the domain of pre-trained GAN for faithful inversion and control the transformation within the scope of the attribute for precise editing. Previous methods mainly focused on improving the quality of reconstruction, but often ignored the editing effect. To address this issue, we first propose a mapping network to manipulate latent code which is effective for diverse situations, and design a spatial attention network to predict binary mask of certain attribute which encourages to only alter relevant region of images and suppress irrelevant changes. In addition, we introduce a novel latent space into GAN inversion framework which achieves high reconstruction quality especially preserving identity features and retains ability to edit face attributes. Our methods pave the way to semantically meaningful and disentangled manipulations on both generated images and real images. Experimental results indicate a clear improvement over the current state-of-the-art methods both in subjective and objective metrics."
+  "description": "Recently, some pioneering works have preferred applying more complex modules to improve segmentation performances. However, it is not friendly for actual clinical environments due to limited computing resources. To address this challenge, we propose a light-weight model to achieve competitive performances for skin lesion segmentation at the lowest cost of parameters and computational complexity so far. Briefly, we propose four modules: (1) DGA consists of dilated convolution and gated attention mechanisms to extract global and local feature information; (2) IEA, which is based on external attention to characterize the overall datasets and enhance the connection between samples; (3) CAB is composed of 1D convolution and fully connected layers to perform a global and local fusion of multi-stage features to generate attention maps at channel axes; (4) SAB, which operates on multi-stage features by a shared 2D convolution to generate attention maps at spatial axes. We combine four modules with our U-shape architecture and obtain a light-weight medical image segmentation model dubbed as MALUNet. Compared with UNet, our model improved the mIoU and DSC metrics by 2.39% and 1.49%, respectively, with a 44x and 166x reduction in the number of parameters and computational complexity. In addition, we conducted comparison experiments on two skin lesion segmentation datasets (ISIC2017 and ISIC2018). Experimental results show that our model achieves state-of-the-art in balancing the number of parameters, computational complexity and segmentation performances. Code is available at https://github.com/JCruan519/MALUNet."
 }
 </script>
 
@@ -401,11 +401,11 @@
 
 
 
-  <title>Spatial Attention Guided Local Facial Attribute Editing | Mingye Xie&#39;s Homepage</title>
+  <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation | Mingye Xie&#39;s Homepage</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="fc08f3ed02759b76a8a59d61b18836c1" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="9a074d5c939900f5647d9faa0e2142ef" >
 
   
   
@@ -787,7 +787,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Spatial Attention Guided Local Facial Attribute Editing</h1>
+  <h1>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</h1>
 
   
 
@@ -804,12 +804,12 @@
   <div>
     
 
-  <span class="author-highlighted">
+  <span >
+      Jiacheng Ruan</span>, <span >
+      Suncheng Xiang</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Co-corresponding authors"></i>, <span class="author-highlighted">
       Mingye Xie</span>, <span >
-      Suncheng Xiang</span>, <span >
-      Feng Wang</span>, <span >
       Ting Liu</span>, <span >
-      Yuzhuo Fu</span>
+      Yuzhuo Fu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Co-corresponding authors"></i>
   </div>
   
   
@@ -820,7 +820,7 @@
     
       
     
-    March 2022
+    October 2022
   </span>
   
 
@@ -857,22 +857,24 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/document/9859605" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/xie2022spatial/cite.bib">
+        data-filename="/publication/ruan2022malunet/cite.bib">
   Cite
 </a>
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/JCruan519/MALUNet" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -899,7 +901,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Facial attribute manipulation has attracted great attention from the public due to its wide range of applications. Aiming to smoothly manipulate the attributes of real facial images, it is critical to search a proper latent code aligns with the domain of pre-trained GAN for faithful inversion and control the transformation within the scope of the attribute for precise editing. Previous methods mainly focused on improving the quality of reconstruction, but often ignored the editing effect. To address this issue, we first propose a mapping network to manipulate latent code which is effective for diverse situations, and design a spatial attention network to predict binary mask of certain attribute which encourages to only alter relevant region of images and suppress irrelevant changes. In addition, we introduce a novel latent space into GAN inversion framework which achieves high reconstruction quality especially preserving identity features and retains ability to edit face attributes. Our methods pave the way to semantically meaningful and disentangled manipulations on both generated images and real images. Experimental results indicate a clear improvement over the current state-of-the-art methods both in subjective and objective metrics.</p>
+    <p class="pub-abstract">Recently, some pioneering works have preferred applying more complex modules to improve segmentation performances. However, it is not friendly for actual clinical environments due to limited computing resources. To address this challenge, we propose a light-weight model to achieve competitive performances for skin lesion segmentation at the lowest cost of parameters and computational complexity so far. Briefly, we propose four modules: (1) DGA consists of dilated convolution and gated attention mechanisms to extract global and local feature information; (2) IEA, which is based on external attention to characterize the overall datasets and enhance the connection between samples; (3) CAB is composed of 1D convolution and fully connected layers to perform a global and local fusion of multi-stage features to generate attention maps at channel axes; (4) SAB, which operates on multi-stage features by a shared 2D convolution to generate attention maps at spatial axes. We combine four modules with our U-shape architecture and obtain a light-weight medical image segmentation model dubbed as MALUNet. Compared with UNet, our model improved the mIoU and DSC metrics by 2.39% and 1.49%, respectively, with a 44x and 166x reduction in the number of parameters and computational complexity. In addition, we conducted comparison experiments on two skin lesion segmentation datasets (ISIC2017 and ISIC2018). Experimental results show that our model achieves state-of-the-art in balancing the number of parameters, computational complexity and segmentation performances. Code is available at <a href="https://github.com/JCruan519/MALUNet">https://github.com/JCruan519/MALUNet</a>.</p>
     
 
     
@@ -927,7 +929,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">2022 IEEE International Conference on Multimedia and Expo</div>
+          <div class="col-12 col-md-9">2022 International Conference on Bioinformatics and Biomedicine</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -948,11 +950,13 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/generative-adversarial-network-gan/">Generative adversarial network (GAN)</a>
+  <a class="badge badge-light" href="/tag/light-weight-model/">Light-weight model</a>
   
-  <a class="badge badge-light" href="/tag/facial-attribute-manipulation/">Facial attribute manipulation</a>
+  <a class="badge badge-light" href="/tag/medical-image-segmentation/">Medical image segmentation</a>
   
   <a class="badge badge-light" href="/tag/attention-mechanism/">Attention mechanism</a>
+  
+  <a class="badge badge-light" href="/tag/mobile-health/">Mobile health</a>
   
 </div>
 
@@ -969,7 +973,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://myronxie.github.io/publication/xie2022spatial/&amp;text=Spatial%20Attention%20Guided%20Local%20Facial%20Attribute%20Editing" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://myronxie.github.io/publication/ruan2022malunet/&amp;text=MALUNet:%20A%20Multi-Attention%20and%20Light-weight%20UNet%20for%20Skin%20Lesion%20Segmentation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -982,7 +986,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://myronxie.github.io/publication/xie2022spatial/&amp;t=Spatial%20Attention%20Guided%20Local%20Facial%20Attribute%20Editing" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://myronxie.github.io/publication/ruan2022malunet/&amp;t=MALUNet:%20A%20Multi-Attention%20and%20Light-weight%20UNet%20for%20Skin%20Lesion%20Segmentation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -995,7 +999,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Spatial%20Attention%20Guided%20Local%20Facial%20Attribute%20Editing&amp;body=https://myronxie.github.io/publication/xie2022spatial/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=MALUNet:%20A%20Multi-Attention%20and%20Light-weight%20UNet%20for%20Skin%20Lesion%20Segmentation&amp;body=https://myronxie.github.io/publication/ruan2022malunet/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1008,7 +1012,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://myronxie.github.io/publication/xie2022spatial/&amp;title=Spatial%20Attention%20Guided%20Local%20Facial%20Attribute%20Editing" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://myronxie.github.io/publication/ruan2022malunet/&amp;title=MALUNet:%20A%20Multi-Attention%20and%20Light-weight%20UNet%20for%20Skin%20Lesion%20Segmentation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1021,7 +1025,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Spatial%20Attention%20Guided%20Local%20Facial%20Attribute%20Editing%20https://myronxie.github.io/publication/xie2022spatial/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=MALUNet:%20A%20Multi-Attention%20and%20Light-weight%20UNet%20for%20Skin%20Lesion%20Segmentation%20https://myronxie.github.io/publication/ruan2022malunet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1034,7 +1038,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://myronxie.github.io/publication/xie2022spatial/&amp;title=Spatial%20Attention%20Guided%20Local%20Facial%20Attribute%20Editing" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://myronxie.github.io/publication/ruan2022malunet/&amp;title=MALUNet:%20A%20Multi-Attention%20and%20Light-weight%20UNet%20for%20Skin%20Lesion%20Segmentation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1053,6 +1057,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1147,18 +1163,6 @@
 
 
   
-    
-
-
-
-
-  
-    
-
-
-
-
-  
 
 
 
@@ -1179,9 +1183,7 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/ruan2022malunet/">MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</a></li>
-      
-      <li><a href="/publication/xie2022gos/">GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</a></li>
+      <li><a href="/publication/xie2022spatial/">Spatial Attention Guided Local Facial Attribute Editing</a></li>
       
     </ul>
   </div>
