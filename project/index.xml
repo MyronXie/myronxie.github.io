@@ -5,7 +5,7 @@
     <link>https://myronxie.github.io/project/</link>
       <atom:link href="https://myronxie.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 | Mingye Xie</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019-2023 | Mingye Xie</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,11 +13,28 @@
     </image>
     
     <item>
-      <title>Research and Design of Multi-rotor UAV Sensor System Based on Pixhawk</title>
+      <title>Patents &amp; Copyright of computer software</title>
+      <link>https://myronxie.github.io/project/patent/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/project/patent/</guid>
+      <description>&lt;h3 id=&#34;发明专利-patent&#34;&gt;发明专利 (Patent)&lt;/h3&gt;
+&lt;p&gt;基于视觉识别的精密轴尺寸测量方法、装置和系统&lt;br&gt;
+国家发明专利（专利号：ZL201810042093.2）&lt;br&gt;
+谢昕，谢铭烨，胡锋平，王伟如，江勋绎&lt;/p&gt;
+&lt;h3 id=&#34;软件著作权-copyright-of-computer-software&#34;&gt;软件著作权 (Copyright of computer software)&lt;/h3&gt;
+&lt;p&gt;非接触式触控屏控制软件&lt;br&gt;
+软件著作权（登记号：2018SR522061）&lt;br&gt;
+谢铭烨，金豫，等&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master Thesis</title>
       <link>https://myronxie.github.io/project/master-thesis/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://myronxie.github.io/project/master-thesis/</guid>
-      <description>&lt;p&gt;In recent years, multi-rotor UAVs have shown great application value in the fields of aerial photography, power inspection, and agricultural plant protection due to their simple structure, convenient use and easy maintenance. With the continuous investment of commercial companies, research institutes and open source communities, the technology related to multi-rotor drones has developed vigorously.&lt;/p&gt;
+      <description>&lt;p&gt;Research and Design of Multi-rotor UAV Sensor System Based on Pixhawk (Master Thesis)&lt;/p&gt;
+&lt;p&gt;In recent years, multi-rotor UAVs have shown great application value in the fields of aerial photography, power inspection, and agricultural plant protection due to their simple structure, convenient use and easy maintenance. With the continuous investment of commercial companies, research institutes and open source communities, the technology related to multi-rotor drones has developed vigorously.&lt;/p&gt;
 &lt;p&gt;The sensor system, as part of a multi-rotor drone, continuously provides reliable sensor raw data for the drone. The sensor data is finally converted into state information such as flight attitude and flight position of the drone through various algorithms within the system, which provides a basis for the multi-rotor UAV to achieve autonomous control.
 This paper uses the Pixhawk open source flight control system, based on the self-designed and built flight control software and hardware platform, the following research and design of the multi-rotor UAV sensor system:&lt;/p&gt;
 &lt;ol&gt;
