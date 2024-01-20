@@ -5,7 +5,7 @@
     <link>https://myronxie.github.io/publication-type/2/</link>
       <atom:link href="https://myronxie.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>GhostFormer: Efficiently amalgamated CNN-transformer architecture for object detection</title>
+      <link>https://myronxie.github.io/publication/xie2024ghostformer/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2024ghostformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Editing outdoor scenes with a large annotated synthetic dataset</title>
       <link>https://myronxie.github.io/publication/xie2023editing/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://myronxie.github.io/publication/xie2023editing/</guid>
       <description></description>
     </item>
