@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discriminability | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/discriminability/</link>
+      <atom:link href="https://myronxie.github.io/tag/discriminability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Discriminability</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Discriminability</title>
+      <link>https://myronxie.github.io/tag/discriminability/</link>
+    </image>
+    
+    <item>
+      <title>SubFace: learning with softmax approximation for face recognition</title>
+      <link>https://myronxie.github.io/publication/xiang2024subface/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xiang2024subface/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

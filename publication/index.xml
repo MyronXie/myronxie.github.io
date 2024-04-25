@@ -5,7 +5,7 @@
     <link>https://myronxie.github.io/publication/</link>
       <atom:link href="https://myronxie.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
-      <link>https://myronxie.github.io/publication/yu2024from/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/publication/yu2024from/</guid>
+      <title>iDAT: inverse Distillation Adapter-Tuning</title>
+      <link>https://myronxie.github.io/publication/ruan2024idat/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/ruan2024idat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GhostFormer: Efficiently amalgamated CNN-transformer architecture for object detection</title>
-      <link>https://myronxie.github.io/publication/xie2024ghostformer/</link>
+      <title>SubFace: learning with softmax approximation for face recognition</title>
+      <link>https://myronxie.github.io/publication/xiang2024subface/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xiang2024subface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
+      <link>https://myronxie.github.io/publication/yan2024learning/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/yan2024learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
+      <link>https://myronxie.github.io/publication/yu2024from/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/publication/xie2024ghostformer/</guid>
+      <guid>https://myronxie.github.io/publication/yu2024from/</guid>
       <description></description>
     </item>
     
@@ -37,10 +53,10 @@
     </item>
     
     <item>
-      <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
-      <link>https://myronxie.github.io/publication/yan2024learning/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/publication/yan2024learning/</guid>
+      <title>GhostFormer: Efficiently amalgamated CNN-transformer architecture for object detection</title>
+      <link>https://myronxie.github.io/publication/xie2024ghostformer/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2024ghostformer/</guid>
       <description></description>
     </item>
     
@@ -54,9 +70,9 @@
     
     <item>
       <title>EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation</title>
-      <link>https://myronxie.github.io/publication/ruan2023egeunet/</link>
+      <link>https://myronxie.github.io/publication/ruan2023ege/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/publication/ruan2023egeunet/</guid>
+      <guid>https://myronxie.github.io/publication/ruan2023ege/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://myronxie.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
+      <title>Paper-Conference</title>
+      <link>https://myronxie.github.io/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>iDAT: inverse Distillation Adapter-Tuning</title>
+      <link>https://myronxie.github.io/publication/ruan2024idat/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/ruan2024idat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
+      <link>https://myronxie.github.io/publication/yan2024learning/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/yan2024learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
+      <link>https://myronxie.github.io/publication/yu2024from/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/yu2024from/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
+      <link>https://myronxie.github.io/publication/gao2024lamm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/gao2024lamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation</title>
+      <link>https://myronxie.github.io/publication/ruan2023ege/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/ruan2023ege/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
+      <link>https://myronxie.github.io/publication/ruan2022malunet/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/ruan2022malunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Attention Guided Local Facial Attribute Editing</title>
+      <link>https://myronxie.github.io/publication/xie2022spatial/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2022spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</title>
+      <link>https://myronxie.github.io/publication/xie2022gos/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2022gos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
