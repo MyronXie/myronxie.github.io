@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PEFT | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/peft/</link>
+      <atom:link href="https://myronxie.github.io/tag/peft/index.xml" rel="self" type="application/rss+xml" />
+    <description>PEFT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu15489444370759105925.png</url>
+      <title>PEFT</title>
+      <link>https://myronxie.github.io/tag/peft/</link>
+    </image>
+    
+    <item>
+      <title>GIST: Improving Parameter Efficient Fine-Tuning via Knowledge Interaction</title>
+      <link>https://myronxie.github.io/publication/ruan2024gist/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

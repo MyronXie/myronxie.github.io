@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://myronxie.github.io/tag/adversarial-attack/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/publication/xie2025gpa/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/instance-segmentation/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/object-detection/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/physical-attack/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/publication_types/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/publication/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/tags/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/publication/ruan2024gist/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://myronxie.github.io/tag/peft/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://myronxie.github.io/publication/ruan2024idat/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,22 +59,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://myronxie.github.io/tag/mobile-health/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://myronxie.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://myronxie.github.io/publication_types/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://myronxie.github.io/publication/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://myronxie.github.io/tags/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -99,10 +127,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://myronxie.github.io/tag/lightweight-network-design/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://myronxie.github.io/tag/object-detection/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

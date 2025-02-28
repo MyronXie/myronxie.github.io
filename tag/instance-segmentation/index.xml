@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instance Segmentation | Mingye Xie&#39;s Homepage</title>
+    <link>https://myronxie.github.io/tag/instance-segmentation/</link>
+      <atom:link href="https://myronxie.github.io/tag/instance-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instance Segmentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://myronxie.github.io/media/icon_hu15489444370759105925.png</url>
+      <title>Instance Segmentation</title>
+      <link>https://myronxie.github.io/tag/instance-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>GPA: Enhancing Generalizable Physical Adversarial Attacks Across Multiple Vision Tasks</title>
+      <link>https://myronxie.github.io/publication/xie2025gpa/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2025gpa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
