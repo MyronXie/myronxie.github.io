@@ -5,12 +5,20 @@
     <link>https://myronxie.github.io/publication/</link>
       <atom:link href="https://myronxie.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu15489444370759105925.png</url>
       <title>Publications</title>
       <link>https://myronxie.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bridging the Gap: Balancing Human Perception and Detector Attention in Adversarial Attacks</title>
+      <link>https://myronxie.github.io/publication/xie2025bridging/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2025bridging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GPA: Enhancing Generalizable Physical Adversarial Attacks Across Multiple Vision Tasks</title>
