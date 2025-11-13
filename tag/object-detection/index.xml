@@ -5,12 +5,20 @@
     <link>https://myronxie.github.io/tag/object-detection/</link>
       <atom:link href="https://myronxie.github.io/tag/object-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Object Detection</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu15489444370759105925.png</url>
       <title>Object Detection</title>
       <link>https://myronxie.github.io/tag/object-detection/</link>
     </image>
+    
+    <item>
+      <title>Unnoticed Yet Effective: A Hybrid Physical Camouflage Framework Against DNNs and Human Perception</title>
+      <link>https://myronxie.github.io/publication/xie2026unnoticed/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://myronxie.github.io/publication/xie2026unnoticed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bridging the Gap: Balancing Human Perception and Detector Attention in Adversarial Attacks</title>
